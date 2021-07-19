@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @tIcers
 - 👀 I’m interested in being software engineer in the future
 - 🌱 I’m currently learning python 
+- I am also interested in ML, mobile applications, AI. 
+
 
 
 <!---
