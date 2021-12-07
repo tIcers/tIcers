@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atsuki, @tIcers
 - 👀 I’m interested in being software engineer in the future
-- 🌱 I’m currently learning python 
-- I am also interested in ML, mobile applications, AI. 
+- 🌱 I’m currently learning python, javascript 
+- I am also interested in ML and datascience 
 
 
 
