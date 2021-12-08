@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Atsuki, @tIcers
-- 👀 I’m interested in being software engineer in the future
+- 👋 Hi, I’m Atsuki
+- 👀 I’m interested in ML and data science
 - 🌱 I’m currently learning python, javascript 
-- I am also interested in ML and datascience 
 
 
 
