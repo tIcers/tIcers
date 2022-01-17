@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atsuki
-- 👀 I’m interested in ML and data science
-- 🌱 I’m currently learning python, javascript 
+- 👀 I’m interested in ML and data science in the future
+- 🌱 I’m currently learning Python, Javascript 
 
 
 
