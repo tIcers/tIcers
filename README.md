@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Atsuki
-- 👀 I’m interested in ML and data science in the future
-- 🌱 I’m currently learning Python, Javascript 
+- 👋 Hi, I’m Atsuki from Japan
+- ✍🏻 I'm studying computer science in Canada
+- 👀 I’m interested in Machine learning and Data science 
+- 👨🏻‍💻 I'm learning Python, Javascript, HTML & CSS, jquery and Node js.
+- 🌱 My programming journey started from january 2022.
+
+
+- 🐱 🍜 🍣 🍙 lover
 
 
 
