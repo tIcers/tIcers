@@ -2,6 +2,7 @@
 - ✍🏻 I'm studying computer science in Canada
 - 👀 I’m interested in Machine learning and Data science 
 - 👨🏻‍💻 I'm learning Python, Javascript, HTML & CSS, jquery and Node js.
+- 📆 I am currently working on project called Travelr  
 - 🌱 My programming journey started from january 2022.
 
 
