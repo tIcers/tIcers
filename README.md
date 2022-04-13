@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Atsuki from Japan
+- 👋 Hi, I’m Atsu from Japan
 - ✍🏻 I'm studying computer science in Canada
 - 👀 I’m interested in Machine learning and Data science 
 - 👨🏻‍💻 I'm learning Python, Javascript, HTML & CSS, jquery, Node js, Django.
