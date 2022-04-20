@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome to my Github!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Atsu from Japan
 - ✍🏻 I'm studying computer science in Canada
 - 👀 I’m interested in Machine learning and Data science (but not sure yet) 
