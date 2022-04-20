@@ -2,7 +2,8 @@
 - 👋 Hi, I’m Atsu from Japan
 - ✍🏻 I'm studying computer science in Canada
 - 👀 I’m interested in Machine learning and Data science (but not sure yet) 
-- 👨🏻‍💻 I'm learning Python, Javascript, HTML & CSS, jquery, Node js, Django.
+- 👨🏻‍💻 I'm learning <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python
+.svg" />
 - 🌱 My programming journey started from january 2022.
 
 
