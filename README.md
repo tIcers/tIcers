@@ -2,8 +2,7 @@
 - 👋 Hi, I’m Atsu from Japan
 - ✍🏻 I'm studying computer science in Canada
 - 👀 I’m interested in Machine learning and Data science (but not sure yet) 
-- 👨🏻‍💻 I'm learning <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python
-.svg" />
+- 👨🏻‍💻 I'm learning <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 - 🌱 My programming journey started from january 2022.
 
 
