@@ -19,8 +19,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&theme=tokyonight&show_icons=true)]
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&theme=tokyonight&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&theme=tokyonight)
 <!---
