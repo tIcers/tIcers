@@ -21,7 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&theme=tokyonight&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&theme=tokyonight)
 <!---
