@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Atsu from Japan
 - ✍🏻 I'm studying computer science in Canada
-- 👀 I’m interested in Machine learning and Data science (but not sure yet) 
-- 👨🏻‍💻 I'm learning python, Javascript, Django, Jquery.
+- 👀 I’m interested in Machine learning and Data science (but I am not sure yet) 
 - 🌱 My programming journey started from january 2022.
 - 🐱 🍜 🍣 🍙 lover
 
-## 🛠️Languages and Tools(Learning):
+## 🛠️Languages and Tools(👨🏻‍💻Learning):
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" height="40" style="vertical-align:top; margin:4px">
