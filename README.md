@@ -11,12 +11,20 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+  
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" alt="css" height="40" style="vertical-align:top; margin:4px">
+  
+<img src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png" alt="Jquary" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.striim.com/wp-content/themes/striim2020/integrations/AzureSQLDatabase.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+  
 
   
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&theme=tokyonight)
 <!---
 tIcers/tIcers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
