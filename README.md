@@ -3,6 +3,7 @@
 - ✍🏻 I'm studying computer science in Canada
 - 👀 I’m interested in Machine learning and Data science (but I am not sure yet) 
 - 🌱 I started from january 2022, am a still beginner but really want to be a hero!
+- 📆 I am studying Django, python right now
 - 🐱 🍜 🍣 🍙 lover
 
 ## 🛠️Languages and Tools(👨🏻‍💻Learning):
