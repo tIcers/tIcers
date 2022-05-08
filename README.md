@@ -4,7 +4,6 @@
 - ✍🏻 I'm studying computer science in Canada
 - 👀 I’m interested in Machine learning and Data science (but I am not sure yet) 
 - 📆 I am studying Django, python right now
-- 👨🏻‍💻 I am going to work as python developer in this summer!
 - 🐱 🍜 🍣 🍙 lover
 
 ## 🛠️Languages and Tools(👨🏻‍💻Learning):
