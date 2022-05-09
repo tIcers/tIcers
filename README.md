@@ -2,8 +2,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+I+am+Atsuki!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Atsuki from Japan
 - ✍🏻 I'm studying computer science in Canada
-- 👀 I’m interested in Machine learning and Data science (but I am not sure yet) 
 - 📆 I am studying Django, python right now
+- 😭 My weekness is web development, so i am practicing...
 - 🐱 🍜 🍣 🍙 lover
 
 ## 🛠️Languages and Tools(👨🏻‍💻Learning):
