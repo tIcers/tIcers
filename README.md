@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Atsuki from Japan
 - ✍🏻 I'm studying computer science in Canada
 - 📆 I am studying Django, python right now
-- 👨🏻‍💻 I am working as full stack developer intern mainly using python 
+- 👨🏻‍💻 I am working as full stack developer intern using python 
 - 🐱 🍜 🍣 🍙 lover
 
 ## 🛠️Languages and Tools(👨🏻‍💻Learning):
