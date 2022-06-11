@@ -30,9 +30,8 @@ Heroku	![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈Github status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&theme=tokyonight&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&theme=tokyonight&show_icons=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tIcers&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&theme=tokyonight)
  
