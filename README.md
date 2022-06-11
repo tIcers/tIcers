@@ -6,7 +6,7 @@
 - 👨🏻‍💻 I am working as full stack developer intern using python 
 - 🐱 🍜 🍣 🍙 lover
 
-## 🛠️Languages and Tools(👨🏻‍💻Learning):
+## 🛠️Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" height="40" style="vertical-align:top; margin:4px">
