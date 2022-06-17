@@ -33,7 +33,7 @@ Heroku	![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&theme=tokyonight&show_icons=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tIcers&theme=react-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&theme=tokyonight)
- 
+![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 <!---
 tIcers/tIcers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
