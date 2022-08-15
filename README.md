@@ -5,7 +5,6 @@
 - 📆 I am studying Django, python right now
 - 👨🏻‍💻 I am working as full stack developer intern using python 
 - 🐱 🍜 🍣 🍙 lover
-- 
 ## 🛠️Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -30,9 +29,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈Github status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&theme=tokyonight&show_icons=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tIcers&theme=react-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&theme=tokyonight)
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 <!---
 tIcers/tIcers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
