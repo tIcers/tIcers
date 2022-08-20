@@ -30,8 +30,8 @@
 ## 📈Github status:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tIcers&theme=react-dark)
-![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 
 <!---
 tIcers/tIcers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
