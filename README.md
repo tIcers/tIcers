@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Atsuki from Japan
 - ✍🏻 I'm studying computer science in Canada
 - 📆 I am studying Django, python right now
-- 👨🏻‍💻 I am working as full stack developer intern using python 
 - 🐱 🍜 🍣 🍙 lover
 ## 🛠️Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,7 +31,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tIcers&theme=react-dark)
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 tIcers/tIcers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
