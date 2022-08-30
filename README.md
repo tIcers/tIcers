@@ -2,7 +2,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+I+am+Atsuki!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Atsuki from Japan
 - ✍🏻 I'm studying computer science in Canada
-- 📆 I am studying Django, python right now
+- 📆 I am studying java, C, database now
 - 🐱 🍜 🍣 🍙 lover
 ## 🛠️Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
