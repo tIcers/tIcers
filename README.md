@@ -2,8 +2,10 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+I+am+Atsuki!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Atsuki from Japan
 - ✍🏻 I'm studying computer science in Canada
-- 📆 I am studying java, C, database now
+- 📆 I am studying java, C, SQL right now
+- 👨🏻‍💻 I'm more interested in backend develpment
 - 🐱 🍜 🍣 🍙 lover
+- 🇯🇵 Ask me about japan and japanese culture!
 ## 🛠️Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -28,7 +30,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈Github status:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tIcers&theme=tokyonight_duo)
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tIcers&theme=react-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
