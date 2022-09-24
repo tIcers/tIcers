@@ -1,6 +1,4 @@
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+I+am+Atsuki!)](https://git.io/typing-svg)
-- 👋 Hi, I’m Atsuki from Japan
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+vising+my+github!)
 - ✍🏻 I'm studying computer science in Canada
 - 📆 I am studying java, C, SQL right now
 - 👨🏻‍💻 I'm more interested in backend develpment
@@ -30,7 +28,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈Github status:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tIcers)<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&show_icons=true&theme=github_dark)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br />
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 
 <!---
