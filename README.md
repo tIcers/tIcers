@@ -30,7 +30,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈Github status:
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tIcers&theme=react-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 
