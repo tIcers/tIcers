@@ -2,6 +2,8 @@
 - ✍🏻 I'm studying computer science in Canada
 - 📆 I am studying java, C, SQL right now
 - 👨🏻‍💻 I'm more interested in backend develpment
+- 🍜 I love ramen
+- 🏋️ workout!
 - 🐱 🍜 🍣 🍙 lover
 - 🇯🇵 Ask me about japan and japanese culture!
 ## 🛠️Languages and Tools:
