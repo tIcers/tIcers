@@ -30,7 +30,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈Github status:
-![GitHub Streak](https://streak-stats.demolab.com/?user=tIcers)<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&show_icons=true&theme=github_dark)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tIcers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br />
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
