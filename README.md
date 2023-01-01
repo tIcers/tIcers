@@ -51,8 +51,8 @@
 
 
 ## 📈Github status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tIcers&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&show_icons=true&theme=github_dark&count_private=true&)
+![GitHub Streak](https://streak-stats.demolab.com?user=tIcers&theme=github-dark-blue)
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 
 <!---
