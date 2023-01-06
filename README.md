@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+vising+my+github!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
 - ✍🏻 I'm studying computer science in Canada
 - 📆 I am studying Java in General + Data Strucutre and Algo in Java
 - 👨🏻‍💻 I'm more interested in backend develpment
