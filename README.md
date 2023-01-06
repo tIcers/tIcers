@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
 - ✍🏻 I'm studying computer science in Canada
-- 📆 I am studying Java in General + Data Strucutre and Algo in Java
+- 📆 I am studying Python, Java, Kotlin, and Web tech right now!
 - 👨🏻‍💻 I'm more interested in backend develpment
 - 🍜 I love ramen
 - 🏋️ workout!
@@ -12,10 +12,10 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
-<!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) -->
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <!-- ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) -->
-<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
+
 
 
 ## ⚡ Database:
