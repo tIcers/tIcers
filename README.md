@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
 - ✍🏻 I'm studying computer science in Canada
 - 📆 I am studying Python, Kotlin, and Web Dev right now!
-- 👨🏻‍💻 I'm more interested in backend develpment
-- 🍜 I love ramen
+- 👨🏻‍💻 I'm more interested in backend, mobile development
+- 🍜 I love ramen, sushi, well japanese food
 - 🏋️ workout!
 - 🐱 🍜 🍣 🍙 lover
 - 🇯🇵 Ask me about japan and japanese culture!
