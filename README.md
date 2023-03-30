@@ -2,6 +2,7 @@
 - ✍🏻 I'm studying computer science in Canada
 - 📆 I am studying Python, Kotlin, and Web Dev right now!
 - 👨🏻‍💻 I'm more interested in backend, mobile development
+- 📈 I have experience with Python and related Python framework such as Django and Flask
 - 🍜 I love ramen, sushi, well japanese food
 - 🏋️ workout!
 - 🐱 🍜 🍣 🍙 lover
