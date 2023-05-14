@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
-- ✍🏻 I'm studying computer science in Canada
-- 📆 I am focusing on Python, JavaScript and Swift
-- 👨🏻‍💻 I'm more interested in backend, IOS mobile development
-- 📈 I have experience with Python, Django
-- 🍜 I love ramen, sushi, BBQ... Everything
-- 🏋️ workout!
+✍🏻 I'm a computer science student based in Canada
+📆 I'm currently focusing on developing my skills in Python, JavaScript, and Swift
+👨🏻‍💻 I'm particularly interested in backend development and iOS mobile app development
+📈 I have experience working with Python and Django
+🍜 In my free time, I enjoy exploring new food spots, especially Japanese cuisine like ramen and sushi, as well as BBQ!
+🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
 ## 🛠️Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
