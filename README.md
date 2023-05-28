@@ -2,13 +2,13 @@
 
 ✍🏻 I'm a computer science student based in Canada
 
-📆 I'm currently focusing on developing my skills in Python, JavaScript, and Swift
+📆 Currently, I'm dedicating my efforts to honing my skills in web development with a focus on backend using JavaScript & JS frameworks. Additionally, I am actively studying data structures and algorithms in Python.
 
-👨🏻‍💻 I'm particularly interested in backend development and iOS mobile app development
+👨🏻‍💻 I'm particularly interested in wev backend development and iOS mobile app development
 
-📈 I have experience working with Python and Django
+📈 I have experience working with Python and Django with large scale development
 
-🍜 In my free time, I enjoy exploring new food spots, especially Japanese cuisine like ramen and sushi, as well as BBQ!
+🍜 In my free time, I enjoy exploring new food spots or cafes.
 
 🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
 
