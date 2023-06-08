@@ -54,7 +54,7 @@
 
 
 ## 📈Github status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tIcers&show_icons=true&theme=github_dark&count_private=true&)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user={tIcers}&theme={tokyonight})
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 
 <!---
