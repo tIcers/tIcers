@@ -4,7 +4,7 @@
 
 📆 Currently, I'm dedicating my efforts to honing my skills in full stack web development. Additionally, I am actively studying data structures and algorithms in Python.
 
-👨🏻‍💻 I'm particularly interested in wev backend development and iOS mobile app development
+👨🏻‍💻 I'm highly interested in full stack development, with a specific focus on backend technologies, along with a keen interest in mobile app development
 
 📈 I have experience working with Python and Django with large scale development
 
