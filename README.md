@@ -54,7 +54,6 @@
 
 
 ## 📈Github status:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user={tIcers}&theme={tokyonight})
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
 
 <!---
