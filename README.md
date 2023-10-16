@@ -2,7 +2,7 @@
 
 ✍🏻 I'm a computer science student based in Canada
 
-📆 Currently, I'm dedicating my efforts to honing my skills in full stack web development. Additionally, I am actively studying data structures and algorithms in Python.
+📆 Currently, I'm dedicating my efforts to honing my skills in full stack web development and mobile dev.
 
 👨🏻‍💻 I'm highly interested in full stack development, with a specific focus on backend technologies. 
 
