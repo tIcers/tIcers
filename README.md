@@ -2,9 +2,9 @@
 
 ✍🏻 I'm a computer science student based in Canada
 
-📆 Currently, I'm dedicating my efforts to honing my skills in full stack web development and mobile dev.
+📆 Currently, I'm dedicating my efforts to honing my skills in full stack web development and IOS mobile dev.
 
-👨🏻‍💻 I'm highly interested in full stack development, with a specific focus on backend technologies. 
+👨🏻‍💻 I'm highly interested in full stack development, with a specific focus on backend technologies, and IOS dev. 
 
 📈 I have experience working with Python and Django with large scale development
 
