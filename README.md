@@ -1,16 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
 
-✍🏻 I'm a computer science student based in Canada
+🎓 I recently graduated from school in Computer Science, marking a significant milestone in my journey into the tech industry.
 
-📆 Currently, I'm dedicating my efforts to honing my skills in full stack web development and IOS mobile dev.
+🌐 I'm currently focused on leveraging my skills in full-stack, backend development.
 
-👨🏻‍💻 I'm highly interested in full stack development, with a specific focus on backend technologies, and IOS dev. 
+👨‍💻 My passion lies in full-stack, backend development. I thrive on creating efficient, scalable solutions that address complex problems.
 
-📈 I have experience working with Python and Django with large scale development
+💼 My professional experience includes working with Python and Django on large-scale projects, where I contributed to developing robust backend systems.
 
-🍜 In my free time, I enjoy exploring new food spots or cafes.
+🍴 Outside of technology, I'm a big foodie, always on the lookout for new culinary experiences and cozy cafes to unwind in.
 
-🏋️‍♂️ When I'm not coding or eating, you can usually find me at the gym, staying active and working out.
+🏋️‍♂️ To balance my tech-focused life, I maintain an active lifestyle, frequenting the gym to stay fit and energized.
 
 ## 🛠️Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
