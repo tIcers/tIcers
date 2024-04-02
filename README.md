@@ -1,10 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
 
-🎓 I recently graduated from school in Computer Science, marking a significant milestone in my journey into the tech industry.
-
-🌐 I'm currently focused on leveraging my skills in full-stack, backend development.
-
-👨‍💻 My passion lies in full-stack, backend development. I thrive on creating efficient, scalable solutions that address complex problems.
+🌐 I'm currently learning Golang, AWS, Docker, K8s, Linux, Computer Networking.
 
 💼 My professional experience includes working with Python and Django on large-scale projects, where I contributed to developing robust backend systems.
 
