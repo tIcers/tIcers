@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
 
-🌐 I'm currently learning Golang, AWS, Docker, K8s, Linux, Computer Networking.
+🌐 I'm currently learning Golang, AWS, Docker, K8s.
 
 💼 My professional experience includes working with Python and Django on large-scale projects, where I contributed to developing robust backend systems.
 
