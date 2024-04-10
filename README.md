@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
 
-🌐 I'm currently learning Cloud Computing and Secrity.
+🌐 I'm currently learning Cloud Computing and Security.
 
 💼 My professional experience includes working with Python and Django on large-scale projects, where I contributed to developing robust backend systems.
 
