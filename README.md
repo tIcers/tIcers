@@ -55,6 +55,8 @@
 
 ## 📈Github status:
 ![](https://komarev.com/ghpvc/?username=tIcers&style=for-the-badge)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tIcers&" alt="tIcers" /></p>
 <!---
 tIcers/tIcers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
