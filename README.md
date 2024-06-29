@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visitng+my+github!)
 
-🌐 I'm currently learning Cloud Computing and Cybersecurity, expanding my technical skill set to stay ahead of the curve in these rapidly evolving fields.
+🌐 I am reading and studying more about computer networking, operating systems, CI/CD, and cloud computing in my free time
 
 💼 My professional experience includes working with Python and Django on large-scale projects, where I contributed to developing robust backend systems.
 
